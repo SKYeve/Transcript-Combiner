@@ -24,7 +24,7 @@
 **4. 配置cookies.json文件：获取``Cookies``方式：**  
   - 在浏览器如 Chrome 中使用账号密码或者其他方式登录有道云笔记  
   - 打开 DevTools (F12)，Network 下找「主」请求（一般是第一个），再找``Cookie``  
-  - 复制对应数据填入cookies.json
+  - 复制对应数据填入cookies.json  
   - Also See [Here](https://github.com/DeppWang/youdaonote-pull#3%E8%AE%BE%E7%BD%AE%E7%99%BB%E5%BD%95-cookies-%E6%96%87%E4%BB%B6-cookiesjson)
 
 **5. 配置config.json文件**  
